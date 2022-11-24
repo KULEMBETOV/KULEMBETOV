@@ -9,6 +9,9 @@
   <a href="https://t.me/artur_kulembetov" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-lightblue?logo=telegram&logoColor=white&style=for-the-badge"/>
     </a>
+  <a href="https://twitter.com/arturkulembetov" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-purple?logo=twitter&logoColor=white&style=for-the-badge"/>
+    </a>
 </div>
 
 <div id="picture-before-iam" align="center">
