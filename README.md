@@ -1,44 +1,62 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100"/>
-</div>
-
+<div id="social-media" align="center">
+<details open><summary><h2>Connect with me</h2></summary>
 <div id="badges" align="center">
   <a href="https://twitter.com/arturkulembetov">
     <img src="https://img.shields.io/badge/Twitter-black?logo=X&logoColor=white&style=for-the-badge"/>
     </a>
   <a href="https://www.linkedin.com/in/kulembetov/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0076b4?logo=linkedin&logoColor=white&style=for-the-badge"/>
     </a>
   <a href="https://t.me/artur_kulembetov">
-    <img src="https://img.shields.io/badge/Telegram-lightblue?logo=telegram&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Telegram-1484bb?logo=telegram&logoColor=white&style=for-the-badge"/>
     </a>
   <a href="mailto:artur_kulembetov@outlook.com">
-    <img src="https://img.shields.io/badge/Mail-purple?logo=microsoft-outlook&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Mail-00469b?logo=microsoft-outlook&logoColor=white&style=for-the-badge"/>
     </a>
 </div>
-
-<div id="picture-before-iam" align="center">
-  <img src="https://media.giphy.com/media/3o84U0qMzAnzDBRPxK/giphy.gif"/>
+</details>
 </div>
-
----
 
 <div id="about-me" align="center">
-<p>👨‍💻 About me:<p>
-<p>📝 I am currently enrolled in the Yandex.Practicum web development program, where I am gaining valuable insights and practical skills in the field of web development. Additionally, I am pursuing a study of computer science to foster a comprehensive and profound understanding of the subject.<p>
-<p>:right_anger_bubble: During my leisure time, I actively engage in expanding my knowledge of emerging technologies. I accomplish this by immersing myself in a variety of educational resources, such as watching informative videos and listening to insightful IT podcasts. Additionally, I am deeply passionate about problem-solving, dedicating time to tackle intricate challenges. My thirst for knowledge extends to reading technical articles, enabling me to stay updated on the latest trends and advancements. To further enrich my understanding, I eagerly participate in various tech-related events, where I can connect with like-minded individuals and absorb fresh insights.</p>
+<details open><summary><h2>About me</h2></summary>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E82F7&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Web+Developer" alt="Typing SVG" /></a>
+  <p>
+    <p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7AB0E&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Artur;Taking+a+web-development+course;School+at+UoPeople;Pursuing+a+major+in+Computer+Science;Living+in+Bangkok" alt="Typing SVG" /></a>
+  <p>
+</details>
 </div>
 
----
+<div id="projects" align="center">
+<details open><summary><h2>Projects</h2></summary>
+  <p align="center">
+    <a href="https://github.com/kulembetov?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repositories-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+    </p>
+  <div style="display: flex; justify-content: space-between; flex-wrap: nowrap; gap: 10px; padding: 10px;">
+    <div style="flex: 1; min-width: 300px;">
+
+[![Nike](https://github-readme-stats.vercel.app/api/pin/?username=kulembetov&repo=nike-landing-page&theme=github_dark_dimmed)](https://github.com/kulembetov/nike-landing-page)
+[![Sushi Savor](https://github-readme-stats.vercel.app/api/pin/?username=kulembetov&repo=sushi-savor&theme=github_dark_dimmed)](https://github.com/kulembetov/sushi-savor)
+[![Hilink](https://github-readme-stats.vercel.app/api/pin/?username=kulembetov&repo=hilink&theme=github_dark_dimmed)](https://github.com/kulembetov/hilink)
+[![Car Hub](https://github-readme-stats.vercel.app/api/pin/?username=kulembetov&repo=car-hub&theme=github_dark_dimmed)](https://github.com/kulembetov/car-hub)
+[![Everland](https://github-readme-stats.vercel.app/api/pin/?username=kulembetov&repo=everland&theme=github_dark_dimmed)](https://github.com/kulembetov/everland)
+[![Mesto Project](https://github-readme-stats.vercel.app/api/pin/?username=kulembetov&repo=mesto-project&theme=github_dark_dimmed)](https://github.com/kulembetov/mesto-project)
+[![React Stellar Burger](https://github-readme-stats.vercel.app/api/pin/?username=kulembetov&repo=react-stellar-burger&theme=github_dark_dimmed)](https://github.com/kulembetov/react-stellar-burger)
+[![Algososh](https://github-readme-stats.vercel.app/api/pin/?username=kulembetov&repo=algososh&theme=github_dark_dimmed)](https://github.com/kulembetov/algososh)
+</div>
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kulembetov&hide_progress=true&hide=html,css&theme=github_dark_dimmed)
+
+</div>
+</details>
+</div>
 
 <div id="languages-and-tools" align="center">
- <p>⌨️ Languages and tools:<p>
- <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.JS" alt="Node.JS" width="40" height="40"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>
-</div>
+  <details open><summary><h2>Languages and tools</h2></summary>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7419B&center=true&vCenter=true&random=true&width=435&lines=HTML;CSS;JavaScript;TypeScript;Next.js;MongoDB;PostgreSQL;Tailwind+CSS;shadcn%2Fui;Prisma;GIT" alt="Languages and tools" /></a>
+</p>
+   </details>
+ </div>
