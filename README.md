@@ -21,10 +21,13 @@
 <details open><summary><h2>About me</h2></summary>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E82F7&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Web+Developer" alt="Typing SVG" /></a>
-  <p>
-    <p align="center">
+</p>
+<p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7AB0E&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Artur;Taking+a+web-development+course;School+at+UoPeople;Pursuing+a+major+in+Computer+Science;Living+in+Bangkok" alt="Typing SVG" /></a>
-  <p>
+<p>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=500&pause=100&color=79F7AC&center=true&multiline=true&repeat=false&random=false&width=500&height=390&lines=Completed+an+web+development;program%2C+mastering+technologies+such+as;React%2C+Redux%2C+MongoDB%2C+Node.js%2C+and;Docker.+Successfully+developed+and;deployed+various+web+applications%2C;demonstrating+professionalism+in;full-stack+development.+Enhanced;teamwork+and+problem-solving+skills;through+collaboration+within+Agile;and+Git+frameworks.+All+works+under;thorough+review+with+subsequent+code;refactoring+based+on+reviewer+comments%2C;contributing+to+the+improvement+of;project+quality+and+professional+growth." alt="Typing SVG" /></a>
+<p>
 </details>
 </div>
 
@@ -56,7 +59,7 @@
 <div id="languages-and-tools" align="center">
   <details open><summary><h2>Languages and tools</h2></summary>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7419B&center=true&vCenter=true&random=true&width=435&lines=HTML;CSS;JavaScript;TypeScript;Next.js;MongoDB;PostgreSQL;Tailwind+CSS;shadcn%2Fui;Prisma;GIT" alt="Languages and tools" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&color=F7419B&center=true&vCenter=true&random=true&width=500&lines=JavaScript;React;HTML;CSS;Git;TypeScript;Redux;NextJS;MongoDB;PostgreSQL;Docker;Tailwind+CSS;shadcn%2Fui" alt="Languages and Tools" /></a>
 </p>
    </details>
  </div>
