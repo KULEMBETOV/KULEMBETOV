@@ -23,17 +23,16 @@
     <summary><h2>About me</h2></summary>
     <p align="center">
       <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E82F7&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Software+Engineer" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=501&pause=100&color=1E82F7&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Software+Engineer" alt="Typing SVG" />
       </a>
     </p>
     <p align="center">
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7AB0E&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Artur;Studying+web development;Pursuing+a+major+in+Computer+Science;Living+in+Bangkok;Working+on+side+projects" alt="Typing SVG" />
-      </a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&color=F7AB0E&center=true&vCenter=true&random=true&width=435&lines=Hi%2C+I'm+Artur;Working+at+an+AI+startup;Living+in+Bangkok;Pursuing+a+CS+degree;Attending+tech+meetups+regularly;Networking+with+tech+enthusiasts;Building+scalable+web+applications;Passionate+about+web+development" alt="Typing SVG" />
+</a>
     </p>
     <p align="center">
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=100&color=79F7AC&multiline=true&repeat=false&width=500&height=397&lines=Experienced+web+developer+with+deep;knowledge+of+application+architecture;and+design%2C+actively+using+Next.js%2C;TypeScript%2C+and+React.+Worked+in+Agile;teams%2C+which+helped+me+develop+teamwork;and+deadline+management+skills.;Developed+a+comprehensive+authentication;system+at+my+current+job+and+continue+to;engage+in+side+projects+and+learn+to;constantly+improve+my+skills." alt="Typing SVG" />
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=501&pause=100&repeat=false&color=79F7AC&center=true&multiline=true&width=500&height=400&lines=Results-    driven+web+developer+with;expertise+in+designing+scalable%2C;user-                                                                              centric+applications+and;improving+workflows.+Skilled+in;modern+web+technologies+like+Next.js%2C;TypeScript%2C+and+React%2C+with+a;strong+focus+on+delivering+impactful;solutions+and+exceptional+user;environments%2C+emphasizing;collaboration%2C+code+quality%2C+and;continuous+improvement." alt="Typing SVG" />
       </a>
     </p>
   </details>
@@ -50,6 +49,7 @@
     <div style="display: flex; justify-content: space-between; flex-wrap: nowrap; gap: 10px; padding: 10px;">
     <div style="flex: 1; min-width: 300px;">
 
+[![CV](https://github-readme-stats.vercel.app/api/pin/?username=kulembetov&repo=cv&theme=github_dark_dimmed)](https://github.com/kulembetov/cv)
 [![Quizzly AI](https://github-readme-stats.vercel.app/api/pin/?username=kulembetov&repo=quizzly-ai&theme=github_dark_dimmed)](https://github.com/kulembetov/quizzly-ai)
 [![Best Player](https://github-readme-stats.vercel.app/api/pin/?username=kulembetov&repo=best-player&theme=github_dark_dimmed)](https://github.com/kulembetov/best-player)
 [![Card Hub](https://github-readme-stats.vercel.app/api/pin/?username=kulembetov&repo=card-hub&theme=github_dark_dimmed)](https://github.com/kulembetov/card-hub)
@@ -57,7 +57,6 @@
 [![Sushi Savor](https://github-readme-stats.vercel.app/api/pin/?username=kulembetov&repo=sushi-savor&theme=github_dark_dimmed)](https://github.com/kulembetov/sushi-savor)
 [![Hilink](https://github-readme-stats.vercel.app/api/pin/?username=kulembetov&repo=hilink&theme=github_dark_dimmed)](https://github.com/kulembetov/hilink)
 [![Car Hub](https://github-readme-stats.vercel.app/api/pin/?username=kulembetov&repo=car-hub&theme=github_dark_dimmed)](https://github.com/kulembetov/car-hub)
-[![Everland](https://github-readme-stats.vercel.app/api/pin/?username=kulembetov&repo=everland&theme=github_dark_dimmed)](https://github.com/kulembetov/everland)
 </div>
 <div align="center">
 
