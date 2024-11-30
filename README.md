@@ -50,7 +50,7 @@
     <div style="flex: 1; min-width: 300px;">
 
 [![CV](https://github-readme-stats.vercel.app/api/pin/?username=kulembetov&repo=cv&theme=github_dark_dimmed)](https://github.com/kulembetov/cv)
-[![Quizzly AI](https://github-readme-stats.vercel.app/api/pin/?username=kulembetov&repo=quizzly-ai&theme=github_dark_dimmed)](https://github.com/kulembetov/quizzly-ai)
+[![Property Pulse](https://github-readme-stats.vercel.app/api/pin/?username=kulembetov&repo=property-pulse&theme=github_dark_dimmed)](https://github.com/kulembetov/property-pulse)
 [![Best Player](https://github-readme-stats.vercel.app/api/pin/?username=kulembetov&repo=best-player&theme=github_dark_dimmed)](https://github.com/kulembetov/best-player)
 [![Card Hub](https://github-readme-stats.vercel.app/api/pin/?username=kulembetov&repo=card-hub&theme=github_dark_dimmed)](https://github.com/kulembetov/card-hub)
 [![Weather Wise](https://github-readme-stats.vercel.app/api/pin/?username=kulembetov&repo=weather-wise&theme=github_dark_dimmed)](https://github.com/kulembetov/weather-wise)
