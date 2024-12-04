@@ -32,7 +32,7 @@
 </a>
     </p>
     <p align="center">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=501&pause=100&repeat=false&color=79F7AC&center=true&multiline=true&width=500&height=400&lines=Results-    driven+web+developer+with;expertise+in+designing+scalable%2C;user-                                                                              centric+applications+and;improving+workflows.+Skilled+in;modern+web+technologies+like+Next.js%2C;TypeScript%2C+and+React%2C+with+a;strong+focus+on+delivering+impactful;solutions+and+exceptional+user;environments%2C+emphasizing;collaboration%2C+code+quality%2C+and;continuous+improvement." alt="Typing SVG" />
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=501&pause=100&repeat=false&color=79F7AC&center=true&multiline=true&width=500&height=400&lines=Results-driven+web+developer+with;expertise+in+designing+scalable%2C;user-                                                                              centric+applications+and;improving+workflows.+Skilled+in;modern+web+technologies+like+Next.js%2C;TypeScript%2C+and+React%2C+with+a;strong+focus+on+delivering+impactful;solutions+and+exceptional+user;environments%2C+emphasizing;collaboration%2C+code+quality%2C+and;continuous+improvement." alt="Typing SVG" />
       </a>
     </p>
   </details>
