@@ -1,4 +1,5 @@
 <div id="social-media" align="center">
+    <img src="https://media.giphy.com/media/8coEmqQxL39eMJcey0/giphy.gif" alt="via GIPHY" width="480" height="269" style="border-radius: 15px;" />
   <details open>
     <summary><h2>Connect with me</h2></summary>
     <div id="badges" align="center">
